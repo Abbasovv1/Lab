@@ -1,0 +1,89 @@
+
+
+body{
+    
+    font-family: 'Playfair Display', serif;
+    
+}
+
+
+
+.all-div{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    width: 190px;
+    height: 450px;
+    display: inline-block; 
+    margin-top: 170px;
+    margin-left: 450px;
+}
+
+
+
+.all-div2{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    width: 190px;
+    height: 450px;
+    display: inline-block; 
+    margin-top: 50px;
+    margin: 0 30px;
+}
+
+
+.all-div3{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    width: 190px;
+    height: 450px;
+    display: inline-block; 
+    margin-top: 50px;
+    margin: 0 0;
+   
+   
+}
+
+
+.ph1{
+  border-radius: 18px;
+}
+
+.text{
+    text-align: center;
+    color: rgb(0, 6, 95);
+    font-size: 18px;
+}
+
+.text1{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+
+.button1{
+    
+    margin-left: 30%;
+    background-color:rgb(18, 87, 165) ;
+    width: 90px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.button2{
+    margin-left: 30%;
+    background-color: rgb(122, 3, 3);
+    width: 90px;
+    height: 35px;
+    border-radius: 18px;
+   
+
+}
+
+.button3{
+    margin-left: 30%;
+    background-color: rgb(7, 100, 7);
+    width: 90px;
+    height: 35px;
+    border-radius: 18px;
+}
+
